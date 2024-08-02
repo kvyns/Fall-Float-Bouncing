@@ -77,5 +77,8 @@ This project demonstrates the motion of objects in different environments. The u
 
 ## Contributors
 * [kvyns](https://github.com/kvyns)
-* [raunnieo](https://github.com/raunnieo)
+  
+Special thanks to [raunnieo](https://github.com/raunnieo) for the visual elements and planning of this project.
+
+
 
